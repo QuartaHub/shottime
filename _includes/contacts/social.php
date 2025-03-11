@@ -1,0 +1,2 @@
+<a title="Stalker Вконтакте" target="_blank" href="https://vk.com/stalker_outfit">Stalker Вконтакте</a><br>
+<a title="Stalker в Telegram" target="_blank" href="https://t.me/stalker_outfit">Stalker в Telegram</a>

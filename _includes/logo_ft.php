@@ -1,0 +1,1 @@
+<img alt="logo-white.png" src="<?=SITE_TEMPLATE_PATH?>/img/footer_img.svg" height="53" width="102" title="logo-white.png">
