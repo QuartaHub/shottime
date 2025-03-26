@@ -17,7 +17,7 @@ $APPLICATION->SetTitle( "Доставка" );
 	 Бесплатно&nbsp;— при заказе на сумму от 5 000 ₽ до пункта выдачи заказов СДЭК или отделения почты.<br>
 </div>
  <br>
-<table style="border-collapse: collapse; color: #333333;">
+ <table style="border-collapse: collapse; color: #333333;">
 <tbody>
 <tr style="color: var(--bs-table-striped-color);">
 	<td>
@@ -25,7 +25,9 @@ $APPLICATION->SetTitle( "Доставка" );
 		 наименование<br>
 	</td>
 	<td>
-		 &nbsp;ООО "ПЕТРОВ ДВОР"
+		<p>
+			 ООО "ПЕТРОВ ДВОР"
+		</p>
 	</td>
 </tr>
 <tr>
@@ -33,7 +35,9 @@ $APPLICATION->SetTitle( "Доставка" );
 		 ОГРН
 	</td>
 	<td>
-		1247800035878
+		<p>
+			 1247800035878
+		</p>
 	</td>
 </tr>
 <tr style="color: var(--bs-table-striped-color);">
@@ -41,7 +45,9 @@ $APPLICATION->SetTitle( "Доставка" );
 		 ИНН
 	</td>
 	<td>
-		7813679180
+		<p>
+			 7813679180
+		</p>
 	</td>
 </tr>
 <tr>
@@ -49,7 +55,9 @@ $APPLICATION->SetTitle( "Доставка" );
 		 КПП
 	</td>
 	<td>
-		781301001
+		<p>
+			 781301001
+		</p>
 	</td>
 </tr>
 <tr style="color: var(--bs-table-striped-color);">
@@ -57,7 +65,7 @@ $APPLICATION->SetTitle( "Доставка" );
 		 ОКВЭД
 	</td>
 	<td>
-		47.78.7
+		 47.78.7
 	</td>
 </tr>
 <tr>
@@ -65,7 +73,7 @@ $APPLICATION->SetTitle( "Доставка" );
 		 ОКПО
 	</td>
 	<td>
-		47377500
+		 47377500
 	</td>
 </tr>
 <tr style="color: var(--bs-table-striped-color);">
@@ -73,15 +81,15 @@ $APPLICATION->SetTitle( "Доставка" );
 		 Юр. Адрес
 	</td>
 	<td>
-		197046, г Санкт-Петербург, ул. наб. Петроградская, д.18, литер А, помещ. 6-н
+		197046, г. Санкт-Петербург, вн.тер.г. Муниципальный Округ Посадский, наб. Петроградская, д. 18, Литера А, помещ. 6-н, пом./комната 106/7
 	</td>
 </tr>
 <tr>
 	<td>
-		 Почтовый адрес
+		 Почтовый адрес&nbsp; &nbsp; &nbsp;
 	</td>
 	<td>
-		197046, г Санкт-Петербург, ул. наб. Петроградская, д.18, литер А, помещ. 6-н
+		197046, г. Санкт-Петербург, вн.тер.г. Муниципальный Округ Посадский, наб. Петроградская, д. 18, Литера А, помещ. 6-н, пом./комната 106/7<br>
 	</td>
 </tr>
 <tr style="color: var(--bs-table-striped-color);">
@@ -89,28 +97,14 @@ $APPLICATION->SetTitle( "Доставка" );
 		 Email
 	</td>
 	<td>
- <a href="mailto:k.kostromina@quarta-hunt.ru">k.kostromina@quarta-hunt.ru</a>
-	</td>
-</tr>
-<tr>
-	<td>
-		 Телефон
-	</td>
-	<td>
- <a href="tel:+79001991366">8 (900) 199-13-66</a>
-	</td>
-</tr>
-<tr style="color: var(--bs-table-striped-color);">
-	<td>
-		 Ген. Директор
-	</td>
-	<td>
-		Костромина Ксения Владимировна
+		<p>
+ <a href="mailto:k.kostromina@stalker.ru">k.kostromina@stalker.ru</a>
+		</p>
 	</td>
 </tr>
 <tr>
 	<td colspan="2">
-		АО «ТБанк» р/с 40702810110001651263 БИК 044525974 к/с 30101810145250000974
+		 АО «ТБанк»&nbsp;р/с 40702810110001651263 БИК 044525974 к/с 30101810145250000974
 	</td>
 </tr>
 </tbody>
